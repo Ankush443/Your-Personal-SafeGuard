@@ -20,6 +20,7 @@ A comprehensive emergency services platform that connects users to emergency ser
 
 - Node.js (v14 or higher)
 - npm (v6 or higher)
+- Google Gemini API
 
 ### Installation
 
