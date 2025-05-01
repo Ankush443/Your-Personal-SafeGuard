@@ -22,6 +22,16 @@ A comprehensive emergency services platform that connects users to emergency ser
 - npm (v6 or higher)
 - Google Gemini API
 
+### Setting up Google Gemini API Key
+
+Before running the application, set your Google Gemini API key as an environment variable. Create a `.env.local` file in the root directory and add:
+
+```
+NEXT_PUBLIC_GEMINI_API_KEY=your_google_gemini_api_key_here
+```
+
+Replace `your_google_gemini_api_key_here` with your actual API key.
+
 ### Installation
 
 1. Clone the repository
@@ -61,4 +71,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgements
 
 - Emergency services organizations for their invaluable work
-- Disaster management experts for guidance on preparedness content 
+- Disaster management experts for guidance on preparedness content
